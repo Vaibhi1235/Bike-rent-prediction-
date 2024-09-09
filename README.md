@@ -16,7 +16,7 @@
 
 **then pass dataset into train test split and perform necessary moedliing steps and analysis their results.**
 
-**after apply diffrent modelling finally got Xg boost regression wih hyperparametertunning with r2 score 95% on training and 90% testing with root mean sqaured error is 2.89 on traning and 3.10 on testing.**
+**after apply diffrent modelling finally got Xg boost regression wih hyperparametertunning with r2 score 90% on training and 88% testing with root mean sqaured error is 3.94 on traning and 4.30 on testing.**
 
 **best features got yes(functioning day or working day) column and winter season.**
 
